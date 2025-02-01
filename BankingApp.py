@@ -1,3 +1,5 @@
+# this is online banking application
+
 from random import choice
 
 
