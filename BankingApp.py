@@ -1,5 +1,5 @@
 # this is online banking application
-
+# python code
 from random import choice
 
 
