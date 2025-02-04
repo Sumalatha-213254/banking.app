@@ -2,7 +2,7 @@
 # python code
 from random import choice
 
-
+#this python code is related to  banking application
 class BankAccount:
     def __init__(self, account_number, pin, balance=0):
         self.account_number = account_number
